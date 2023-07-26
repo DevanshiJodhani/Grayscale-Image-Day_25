@@ -7,5 +7,5 @@ I have a bird picture that I converted to a Grayscale Image. Below, I added both
 ## Original Picture of bird
 ![Original](original_image.png)
 
-## Grayscale Image OF bird
+## Grayscale Image Of bird
 ![Grayscale Image](Grayscale_Image.png)
